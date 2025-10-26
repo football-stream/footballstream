@@ -222,6 +222,7 @@ footer {
     flex: 1 1 100%;
   }
 }
+
 .card .flag {
   width: 60px;        /* szerokość flagi */
   height: auto;
