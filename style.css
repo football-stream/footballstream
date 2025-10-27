@@ -318,3 +318,19 @@ footer {
 .lightbox .close:hover {
   color: #a97142;
 }
+
+/* Naprawa wyglądu kart na telefonach */
+@media (max-width: 768px) {
+  .shirt-card {
+    width: 90%;
+    margin: 15px auto;
+  }
+
+  .shirt-card img {
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+    background-color: white; /* żeby paski były białe, nie szare */
+    border-radius: 12px;
+  }
+}
