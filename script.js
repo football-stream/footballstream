@@ -322,7 +322,7 @@ document.addEventListener("DOMContentLoaded", function () {
     overlay.innerHTML = `
       <span class="close">×</span>
       <span class="arrow left">❮</span>
-      <img src="${shirt.images[currentIndex].src}" class="lightbox-img" alt="">
+      <img src="${shirt.images[currentIndex].src}" class="lightbox-img" alt="${shirt.club}" loading="lazy">
       <span class="arrow right">❯</span>
       <p class="caption">${shirt.images[currentIndex].caption}</p>
     `;
