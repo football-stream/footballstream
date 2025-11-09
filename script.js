@@ -201,7 +201,7 @@ document.addEventListener("DOMContentLoaded", function () {
             .map(
               (s) => `
             <div class="card">
-              <img src="${s.images[0].src}" alt="${s.club}" />
+              <img src="${s.images[0].src}" alt="${s.club}" loading="lazy" />
               <h4>${s.club} (${s.year})</h4>
               <p>${s.country}</p>
             </div>
@@ -265,7 +265,7 @@ document.addEventListener("DOMContentLoaded", function () {
           .map(
             (s) => `
           <div class="card shirt-card">
-            <img src="${s.images[0].src}" alt="${s.club}" class="shirt-img"/>
+            <img src="${s.images[0].src}" alt="${s.club}" class="shirt-img" loading="lazy"/>
             <h4>${s.club} (${s.year})</h4>
           </div>`
           )
@@ -295,7 +295,7 @@ document.addEventListener("DOMContentLoaded", function () {
           .map(
             (img, i) => `
           <div class="gallery-item">
-            <img src="${img.src}" alt="${s.club}" data-index="${i}" />
+            <img src="${img.src}" alt="${s.club}" data-index="${i}" loading="lazy" />
             <p class="caption">${img.caption}</p>
           </div>`
           )
