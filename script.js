@@ -109,6 +109,23 @@ document.addEventListener("DOMContentLoaded", function () {
       history: "Showcasing Arsenal's calssic red and white design, the 2015/16 home shirt pays homepage to club's iconic colors. Red symbolizing energy and passion, with white sleeves adding striking contrast. Inspired by the original kit gifted by Nottingham Forest in 1888 and redifined by Herbert Chapman in 1933, this shirt blends tradition with modern style. Famous players like  <b> Mesut Ozil </b> and <b> Alexis Sanchez </b> proudly wore it on the pitch.",
     },
     {
+      id: "eng3",
+      country: "England",
+      club: "M. United",
+      year: 1997,
+      images: [
+        { src: "images/MU_1997_FRONT.jpg", caption: " The bold Sharp Viewcam sponsor highlights United partnership with Sharp innovative camcorder brand, symbolizing cutting-edge technology and the rise of digital media at the time. " },
+        { src: "images/MU_1997_BACK.jpg", caption: " " },
+        { src: "images/MU_1997_LOGO.jpg", caption: " The club crest is embroidered, not printed, giving it a textured, high-quality feel. The stitched logo features the red devil with a trident on a yellow-and-red shield, preserving the club traditional emblem." },
+        { src: "images/MU_1997_UMBRO.jpg", caption: " Umbro kit became synonymous with United dominance in the 1990s, blending tradition with modern football aesthetics." },
+        { src: "images/MU_1997_JAC.jpg", caption: " The shirt fabric features a jacquard weave with repeating MUFC crests, subtly embedded into the material. This woven pattern wasn not printed — it was integrated directly into the fabric, showcasing Umbro premium craftsmanship. The design adds texture, depth, and an elegant nod to Manchester United proud identit." },
+        { src: "images/MU_1997_FLAG.jpg", caption: " The small flag logo on the sleeve of the 1997 Manchester United shirt features a vertical red and black bicolor design. On the black section, there is a small yellow crown above a red lion, taken from Manchester coat of arms. This emblem was used by Umbro to represent the clubs English identity and heritage during the late 1990s. " },
+        { src: "images/MU_1997_TECH.jpg", caption: " The back of the shirt features Umbro Vapa Tech Performance label, showcasing the brands 90s innovation in breathable and moisture-wicking fabric. The navy, red, and white collar adds a refined, structured finish. A subtle blend of style and performance, true to Manchester United era of excellence." },
+        
+      ],
+      history: "The 1997 Manchester United home shirt, made by Umbro, is a classic short-sleeve cotton/poly blend jersey featuring the club iconic red with black-and-white trim. Worn by legends such as <b> Eric Cantona </b>, <b> Ryan Giggs </b> , <b> David Beckham </b>, and  <b> Peter Schmeichel </b>, it reflects the team just after their famous 1996/97 Premier League title win. The sleeve patch with subtle red, yellow, and black accents represents the Premier League branding at the time. This shirt is remembered not only for its bold design but also as a symbol of United dominance in the late 1990s, combining style, performance, and football history in one iconic kit.",
+    },
+    {
       id: "ita1",
       country: "Italy",
       club: "Juventus",
