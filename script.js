@@ -115,7 +115,7 @@ document.addEventListener("DOMContentLoaded", function () {
       year: 1997,
       images: [
         { src: "images/MU_1997_FRONT.jpg", caption: " The bold Sharp Viewcam sponsor highlights United partnership with Sharp innovative camcorder brand, symbolizing cutting-edge technology and the rise of digital media at the time. " },
-        { src: "images/MU_1997_BACK.jpg", caption: " " },
+        { src: "images/MU_1997_BACK.jpg", caption: "" },
         { src: "images/MU_1997_LOGO.jpg", caption: " The club crest is embroidered, not printed, giving it a textured, high-quality feel. The stitched logo features the red devil with a trident on a yellow-and-red shield, preserving the club traditional emblem." },
         { src: "images/MU_1997_UMBRO.jpg", caption: " Umbro kit became synonymous with United dominance in the 1990s, blending tradition with modern football aesthetics." },
         { src: "images/MU_1997_JAC.jpg", caption: " The shirt fabric features a jacquard weave with repeating MUFC crests, subtly embedded into the material. This woven pattern wasn not printed — it was integrated directly into the fabric, showcasing Umbro premium craftsmanship. The design adds texture, depth, and an elegant nod to Manchester United proud identit." },
