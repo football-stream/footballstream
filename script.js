@@ -123,7 +123,7 @@ document.addEventListener("DOMContentLoaded", function () {
         { src: "images/MU_1997_TECH.jpg", caption: " The back of the shirt features Umbro Vapa Tech Performance label, showcasing the brands 90s innovation in breathable and moisture-wicking fabric. The navy, red, and white collar adds a refined, structured finish. A subtle blend of style and performance, true to Manchester United era of excellence." },
         
       ],
-      history: "The 1997 Manchester United home shirt, made by Umbro, is a classic short-sleeve cotton/poly blend jersey featuring the club iconic red with black-and-white trim. Worn by legends such as <b> Eric Cantona </b>, <b> Ryan Giggs </b>, <b> David Beckham </b>, and <b> Peter Schmeichel </b>, it reflects the team just after their famous 1996/97 Premier League title win. The sleeve patch with subtle red, yellow, and black accents represents the Premier League branding at the time. This shirt is remembered not only for its bold design but also as a symbol of United dominance in the late 1990s, combining style, performance, and football history in one iconic kit.",
+      history: "The 1997 Manchester United home shirt, made by Umbro, is a classic short-sleeve cotton/poly blend jersey featuring the club iconic red with black-and-white trim. Worn by legends such as <b> Eric Cantona </b>,<b> Ryan Giggs </b>, <b> David Beckham </b>, and <b> Peter Schmeichel </b>, it reflects the team just after their famous 1996/97 Premier League title win. The sleeve patch with subtle red, yellow, and black accents represents the Premier League branding at the time. This shirt is remembered not only for its bold design but also as a symbol of United dominance in the late 1990s, combining style, performance, and football history in one iconic kit.",
     },
     {
       id: "ita1",
@@ -136,10 +136,17 @@ document.addEventListener("DOMContentLoaded", function () {
     {
       id: "fra1",
       country: "France",
-      club: "PSG",
-      year: 2010,
-      images: [{ src: "images/psg_2010_front.png", caption: "Front" }],
-      history: "Blue home kit.",
+      club: "Marseille",
+      year: 2018,
+      images: [
+      { src: "images/MARS_FRONT.jpg", caption: "The base of the jersey is a deep black (sometimes seen as a near-navy tone certain lighting). This color represent the nighttime atmosphere of MArseille, especially the coastal skyline." },
+      { src: "images/MARS_BACK.jpg", caption: "Front" },
+      { src: "images/MARS_LOGO.jpg", caption: "Under the club crest appears the motto -Droit Au But- which means -Straight to the Goal-." },
+      { src: "images/MARS_SLEEVE.jpg", caption: "The sleeves feature a textured, horizontal streak graphic in shades of blue. This mirrored the idea of Movement of the water, reflecting the port of Marseille. " },
+      { src: "images/MARS_PUMA.jpg", caption: "The Puma brand arrival as Marseille new kit sponsor in 2018 marked the beginning of a fresh era, bringing modrrn design innovation and a bold rebranding to the club identity." },
+      { src: "images/MARS_DRY.jpg", caption: "The jersey uses The Puma dryCELL technology, a moisture-wicking fabric designed to keep players cool and dry." }
+      ],
+      history: "The Olympique de Marseille 2018/19 away shirt marks Puma's bold debut season with the club after two decades of wearing Adidas, mixing modern streetwear style with strong Marseille identity. For this launch, Puma created a series of third kits for all their major clubs inspired by the nightscape and architecture of each club's city. For Marseille, the theme was <b> -La Nuit Marseillaise- </b>.",
     },
     {
       id: "ned1",
