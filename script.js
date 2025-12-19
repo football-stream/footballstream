@@ -128,9 +128,17 @@ document.addEventListener("DOMContentLoaded", function () {
     {
       id: "ita1",
       country: "Italy",
-      club: "Juventus",
-      year: 2006,
-      images: [{ src: "images/juventus_2006_front.png", caption: "Front" }],
+      club: "Roma",
+      year: 2004,
+      images: [
+        { src: "images/ROMA_front_2003.jpg", caption: "Front" },
+        { src: "images/roma_2004_back.jpg", caption: "Front" },
+        { src: "images/roma_2004_logo.jpg", caption: "Front" },
+        { src: "images/roma_2004_sign.jpg", caption: "Front" },
+        { src: "images/roma_2004_lega.jpg", caption: "Front" },
+        { src: "images/roma_2004_official.jpg", caption: "Front" }
+      
+      ],
       history: "Black & white stripes.",
     },
     {
@@ -202,11 +210,17 @@ document.addEventListener("DOMContentLoaded", function () {
     {
       id: "nat2",
       country: "National",
-      club: "Brazil",
-      year: 2002,
+      club: "England",
+      year: 2008,
       images: [
-        { src: "images/brazil_2002_front.png", caption: "Front view" },
-        { src: "images/brazil_2002_back.png", caption: "Back view" },
+        { src: "images/england_2008_front.jpg", caption: "Front view" },
+        { src: "images/england_2008_back.jpg", caption: "Back view" },
+        { src: "images/england_2008_logo.jpg", caption: "Back view" },
+        { src: "images/england_2008_colletto.jpg", caption: "Back view" },
+        { src: "images/england_2008_nomespalla.jpg", caption: "Back view" },
+        { src: "images/england_2008_singature.jpg", caption: "Back view" },
+        { src: "images/england_2008_memorabidia.jpg", caption: "Back view" },
+        
       ],
       history: "Yellow home kit from 2002 World Cup.",
     },
