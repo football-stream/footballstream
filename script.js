@@ -183,7 +183,7 @@ document.addEventListener("DOMContentLoaded", function () {
     {
       id: "nat1",
       country: "National",
-      club: "Italy, Home",
+      club: "Italy",
       year: 2004,
       images: [
         {
@@ -213,16 +213,16 @@ document.addEventListener("DOMContentLoaded", function () {
       club: "England",
       year: 2008,
       images: [
-        { src: "images/england_2008_front.jpg", caption: "Front view" },
-        { src: "images/england_2008_back.jpg", caption: "Back view" },
-        { src: "images/england_2008_logo.jpg", caption: "Back view" },
-        { src: "images/england_2008_colletto.jpg", caption: "Back view" },
-        { src: "images/england_2008_nomespalla.jpg", caption: "Back view" },
-        { src: "images/england_2008_singature.jpg", caption: "Back view" },
-        { src: "images/england_2008_memorabidia.jpg", caption: "Back view" },
+        { src: "images/england_2008_front.jpg", caption: "A classic white base is elevated by a bold red shoulder band, narrowing as it moves down the left sleeve, with twin navy diamonds positioned above on the right. The embroidered crest is topped by a navy “ENGLAND” panel and a small gold star, adding depth to the chest. Mesh side panels and subtle diamond detailing complete a sharp, modern England look." },
+        { src: "images/england_2008_back.jpg", caption: "The back of the shirt is clean and well balanced, with a thick navy-blue hem along the bottom that curves upwards at each side. Thin curved lines rise from the lower back to form a subtle V-shape, framing the name and number. Below the collar, the English flag sits on a raised white triangular patch, adding a neat finishing detail." },
+        { src: "images/england_2008_logo.jpg", caption: "Above the badge sits a navy-blue panel with “ENGLAND” in white lettering, topped by a small gold star. The layered embroidery and raised elements give the logo depth and a premium, traditional feel." },
+        { src: "images/england_2008_colletto.jpg", caption: "The white V-neck collar reflects the clean, traditional style introduced in the 2007-2009 England shirts. This period is marked by specific design details, like the raised triangular patch with the English flag on the back, the bold red shoulder band, and the diamond motifs, which together define the unique look of the squad kits during these years." },
+        { src: "images/england_2008_nomespalla.jpg", caption: "On the sleeves, “ENGLAND” is subtly incorporated into the design as part of the shirt detailing. This was meant to reinforce national identity and pride, even in smaller, almost hidden areas, while giving the kit a modern, technical feel." },
+        { src: "images/england_2008_singature.jpg", caption: "Wayne Rooney signature on this shirt adds a personal and iconic touch, connecting the kit to one of England most memorable players of the era." },
+        { src: "images/england_2008_memorabidia.jpg", caption: "On the back of the shirt, the CharityStars authentication sticker ensures the shirt legitimacy as a genuine collectible. It verifies that the item is officially recognized, adding confidence and value for collectors while linking it to the charity auction or official release it came from." },
         
       ],
-      history: "Yellow home kit from 2002 World Cup.",
+      history: "This England shirt from the 2007/2009 period is a true piece of football history. Worn in qualifiers, friendlies, and key fixtures—including matches against Croatia, Kazakhstan, and Belarus, it witnessed memorable moments on the pitch, from dramatic wins to hard-fought draws. <b> Wayne Rooney</b>, one of the standout stars of the era, scored 5 goals in 2008 and 6 goals in 2009 while wearing this kit, adding personal milestones to its story. His signature on the shirt further connects it to his remarkable career and England journey during these years. With authentic match details, armband variations, and the collector touch of Rooney autograph, this shirt tells both the story of the team and the legacy of one of its greatest players.",
     },
   ];
 
